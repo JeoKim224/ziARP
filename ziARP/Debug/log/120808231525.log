@@ -1,0 +1,8 @@
+[12/08/08 PM 23:15:25]  Program Execute
+[12/08/08 PM 23:15:50]  [Info] Network adapter 'Atheros L1C PCI-E Ethernet Controller' on local host Device Opened
+
+[12/08/08 PM 23:15:53]  [Warning] Unrequested arp reply packet is detected. TargetIP: 192.168.0.13
+[12/08/08 PM 23:16:11]  [Warning] Unrequested arp reply packet is detected. TargetIP: 192.168.0.13
+[12/08/08 PM 23:16:11]  [Danger] arp spoofing attack packet is detected. TargetIP: 192.168.0.13
+[12/08/08 PM 23:16:20]  [Info] Static setting failure
+[12/08/08 PM 23:17:11]  [Info] spoofed packet stoped. chage state from attack to nomal. TargetIP: 192.168.0.13 

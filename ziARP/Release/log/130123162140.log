@@ -1,0 +1,17 @@
+[13/01/23 PM 16:21:40]  Program Execute
+[13/01/23 PM 16:21:49]  [Info] Network adapter 'Realtek PCIe GBE Family Controller' on local host Device Opened
+
+[13/01/23 PM 16:22:14]  [Warning] Unrequested arp reply packet is detected. TargetIP: 203.252.118.90
+[13/01/23 PM 16:22:45]  [Danger] arp spoofing attack packet is detected. TargetIP: 203.252.118.90
+[13/01/23 PM 16:23:49]  1
+[13/01/23 PM 16:23:49]  2
+[13/01/23 PM 16:23:49]  3
+[13/01/23 PM 16:23:51]  4
+[13/01/23 PM 16:23:51]  5
+[13/01/23 PM 16:23:51]  6
+[13/01/23 PM 16:23:51]  7
+[13/01/23 PM 16:23:51]  [Info] Static update in updateState
+[13/01/23 PM 16:23:51]  8
+[13/01/23 PM 16:23:51]  [Info] Static setting complete. TargetIP:203.252.118.90 30:30:2D:32:34:2D -> 00:24:54:A4:CD:7C
+[13/01/23 PM 17:02:53]  [Warning] Unrequested arp reply packet is detected. TargetIP: 203.252.118.120
+[13/01/23 PM 17:03:33]  [Info] unrequested reply packet stoped. delete from the Suspicious list. TargetIP: 203.252.118.120

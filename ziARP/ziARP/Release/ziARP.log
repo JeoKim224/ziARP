@@ -1,0 +1,54 @@
+﻿빌드 시작: 2012-08-08 오후 8:55:55
+     1>2 노드의 "C:\Users\Administrator\Dropbox\OpenSource\ProjectFile\OpenSource\ziARP\ziARP.vcxproj" 프로젝트(rebuild 대상)입니다.
+     1>_PrepareForClean:
+         "Release\ziARP.lastbuildstate" 파일을 삭제하고 있습니다.
+       InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\ziARP.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D WPCAP /D _UNICODE /D UNICODE /D ")" /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /wd4996 /analyze- /errorReport:prompt arp_scanning.cpp datas.cpp defence.cpp engin.cpp getDevice.cpp get_info.cpp GUI_Right.cpp log.cpp openDevice.cpp GUI_Main.cpp op_list.cpp oui.cpp detect_engin.cpp spoof_list.cpp
+         arp_scanning.cpp
+         datas.cpp
+         defence.cpp
+         engin.cpp
+         getDevice.cpp
+         get_info.cpp
+     1>get_info.cpp(33): warning C4309: '초기화 중' : 상수 값이 잘립니다.
+     1>get_info.cpp(33): warning C4309: '초기화 중' : 상수 값이 잘립니다.
+         GUI_Right.cpp
+         log.cpp
+         openDevice.cpp
+         GUI_Main.cpp
+         op_list.cpp
+         oui.cpp
+         detect_engin.cpp
+         spoof_list.cpp
+         코드를 생성하고 있습니다...
+       ResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\ziARP.res" ziARP.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Dropbox\OpenSource\ProjectFile\OpenSource\Release\ziARP.exe" /INCREMENTAL:NO /NOLOGO comctl32.lib wpcap.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\ziARP.exe.intermediate.manifest" /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Dropbox\OpenSource\ProjectFile\OpenSource\Release\ziARP.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Dropbox\OpenSource\ProjectFile\OpenSource\Release\ziARP.lib" /MACHINE:X86 Release\ziARP.res
+         Release\arp_scanning.obj
+         Release\datas.obj
+         Release\defence.obj
+         Release\engin.obj
+         Release\getDevice.obj
+         Release\get_info.obj
+         Release\GUI_Right.obj
+         Release\log.obj
+         Release\openDevice.obj
+         Release\GUI_Main.obj
+         Release\op_list.obj
+         Release\oui.obj
+         Release\detect_engin.obj
+         Release\spoof_list.obj
+         ziARP.vcxproj -> C:\Users\Administrator\Dropbox\OpenSource\ProjectFile\OpenSource\Release\ziARP.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Administrator\Dropbox\OpenSource\ProjectFile\OpenSource\Release\ziARP.exe;#1" /manifest Release\ziARP.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         "Release\ziARP.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\ziARP.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\Administrator\Dropbox\OpenSource\ProjectFile\OpenSource\ziARP\ziARP.vcxproj" 프로젝트를 빌드했습니다(rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:33.22

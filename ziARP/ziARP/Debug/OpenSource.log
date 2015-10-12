@@ -1,0 +1,50 @@
+﻿빌드 시작: 2012-08-07 오전 11:12:06
+     1>2 노드의 "C:\Users\my\Dropbox\OpenSource\ProjectFile\OpenSource\OpenSource\OpenSource.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\OpenSource.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D HAVE_REMOTE /D WPCAP /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GUI_Main.cpp GUI_Right.cpp
+         GUI_Right.cpp
+     1>c:\users\my\dropbox\opensource\projectfile\opensource\opensource\header\oui.h(27): warning C4005: 'STR_SIZE' : 매크로 재정의
+                 c:\users\my\dropbox\opensource\projectfile\opensource\opensource\header\spoof_list.h(28) : 'STR_SIZE'의 이전 정의를 참조하십시오.
+         GUI_Main.cpp
+     1>c:\users\my\dropbox\opensource\projectfile\opensource\opensource\header\oui.h(27): warning C4005: 'STR_SIZE' : 매크로 재정의
+                 c:\users\my\dropbox\opensource\projectfile\opensource\opensource\header\spoof_list.h(28) : 'STR_SIZE'의 이전 정의를 참조하십시오.
+     1>c:\users\my\dropbox\opensource\projectfile\opensource\opensource\gui_main.cpp(625): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+         코드를 생성하고 있습니다...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\OpenSource.res" OpenSource.rc 
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\my\Dropbox\OpenSource\ProjectFile\OpenSource\Debug\OpenSource.exe" /INCREMENTAL /NOLOGO comctl32.lib wpcap.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OpenSource.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\my\Dropbox\OpenSource\ProjectFile\OpenSource\Debug\OpenSource.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\my\Dropbox\OpenSource\ProjectFile\OpenSource\Debug\OpenSource.lib" /MACHINE:X86 Debug\OpenSource.res
+         Debug\OpenSource.exe.embed.manifest.res
+         Debug\arp_scanning.obj
+         Debug\datas.obj
+         Debug\defence.obj
+         Debug\engin.obj
+         Debug\getDevice.obj
+         Debug\get_info.obj
+         Debug\GUI_Right.obj
+         Debug\log.obj
+         Debug\openDevice.obj
+         Debug\GUI_Main.obj
+         Debug\op_list.obj
+         Debug\oui.obj
+         Debug\detect_engin.obj
+         Debug\spoof_list.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\OpenSource.exe.embed.manifest" /manifest Debug\OpenSource.exe.intermediate.manifest
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         OpenSource.vcxproj -> C:\Users\my\Dropbox\OpenSource\ProjectFile\OpenSource\Debug\OpenSource.exe
+       FinalizeBuildStatus:
+         "Debug\OpenSource.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\OpenSource.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\my\Dropbox\OpenSource\ProjectFile\OpenSource\OpenSource\OpenSource.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:10.24

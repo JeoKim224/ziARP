@@ -1,0 +1,6 @@
+[12/09/26 PM 21:55:19]  Program Execute
+[12/09/26 PM 21:55:22]  [Info] Network adapter 'Realtek PCIe GBE Family Controller' on local host Device Opened
+
+[12/09/26 PM 22:05:04]  [Warning] Unrequested arp reply packet is detected. TargetIP: 203.252.118.92
+[12/09/26 PM 22:05:40]  [Info] unrequested reply packet stoped. delete from the Suspicious list. TargetIP: 203.252.118.92
+[12/09/26 PM 22:11:59]  Program Terminate

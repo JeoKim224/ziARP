@@ -1,0 +1,5 @@
+[12/08/08 PM 20:57:29]  Program Execute
+[12/08/08 PM 20:57:35]  [Info] Network adapter 'rpcap://\Device\NPF_{F4EEA19F-79B2-4C27-8A6A-897CF1EE672A}' on local host Device Opened
+
+[12/08/08 PM 20:58:33]  [Warning] Unrequested arp reply packet is detected. TargetIP: 203.252.118.71
+[12/08/08 PM 20:58:33]  [Danger] arp spoofing attack packet is detected. TargetIP: 203.252.118.71

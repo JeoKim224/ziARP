@@ -1,0 +1,26 @@
+[12/08/08 PM 21:00:21]  Program Execute
+[12/08/08 PM 21:01:16]  [Info] Network adapter 'rpcap://\Device\NPF_{F4EEA19F-79B2-4C27-8A6A-897CF1EE672A}' on local host Device Opened
+
+[12/08/08 PM 21:01:45]  [Warning] Unrequested arp reply packet is detected. TargetIP: 203.252.118.71
+[12/08/08 PM 21:02:14]  [Danger] arp spoofing attack packet is detected. TargetIP: 203.252.118.71
+[12/08/08 PM 21:02:17]  1
+[12/08/08 PM 21:02:17]  2
+[12/08/08 PM 21:02:17]  3
+[12/08/08 PM 21:02:19]  4
+[12/08/08 PM 21:02:19]  5
+[12/08/08 PM 21:02:19]  5
+[12/08/08 PM 21:02:19]  5
+[12/08/08 PM 21:02:19]  5
+[12/08/08 PM 21:02:19]  5
+[12/08/08 PM 21:02:19]  9
+[12/08/08 PM 21:02:19]  [Info] Static setting failure
+[12/08/08 PM 21:02:23]  1
+[12/08/08 PM 21:02:23]  2
+[12/08/08 PM 21:02:23]  3
+[12/08/08 PM 21:02:25]  4
+[12/08/08 PM 21:02:25]  5
+[12/08/08 PM 21:02:25]  6
+[12/08/08 PM 21:02:25]  7
+[12/08/08 PM 21:02:27]  [Info] Static update in updateState
+[12/08/08 PM 21:02:27]  8
+[12/08/08 PM 21:02:27]  [Info] Static setting complete. TargetIP:203.252.118.71 30:30:2D:32:34:2D -> 00:13:77:69:6E:55

@@ -1,0 +1,52 @@
+[13/01/23 PM 15:36:16]  Program Execute
+[13/01/23 PM 15:36:19]  [Info] Network adapter 'Realtek PCIe GBE Family Controller' on local host Device Opened
+
+[13/01/23 PM 15:47:13]  [Warning] Unrequested arp reply packet is detected. TargetIP: 203.252.118.1
+[13/01/23 PM 15:47:43]  [Danger] arp spoofing attack packet is detected. TargetIP: 203.252.118.1
+[13/01/23 PM 15:47:50]  1
+[13/01/23 PM 15:47:50]  2
+[13/01/23 PM 15:47:50]  3
+[13/01/23 PM 15:47:52]  4
+[13/01/23 PM 15:47:52]  5
+[13/01/23 PM 15:47:52]  5
+[13/01/23 PM 15:47:52]  5
+[13/01/23 PM 15:47:52]  5
+[13/01/23 PM 15:47:52]  5
+[13/01/23 PM 15:47:52]  9
+[13/01/23 PM 15:47:52]  [Info] Static setting failure
+[13/01/23 PM 15:48:02]  1
+[13/01/23 PM 15:48:02]  2
+[13/01/23 PM 15:48:02]  3
+[13/01/23 PM 15:48:04]  4
+[13/01/23 PM 15:48:04]  5
+[13/01/23 PM 15:48:04]  5
+[13/01/23 PM 15:48:04]  5
+[13/01/23 PM 15:48:04]  5
+[13/01/23 PM 15:48:04]  5
+[13/01/23 PM 15:48:04]  9
+[13/01/23 PM 15:48:04]  [Info] Static setting failure
+[13/01/23 PM 15:48:35]  1
+[13/01/23 PM 15:48:35]  2
+[13/01/23 PM 15:48:35]  3
+[13/01/23 PM 15:48:37]  4
+[13/01/23 PM 15:48:37]  5
+[13/01/23 PM 15:48:37]  5
+[13/01/23 PM 15:48:37]  5
+[13/01/23 PM 15:48:37]  5
+[13/01/23 PM 15:48:37]  5
+[13/01/23 PM 15:48:37]  9
+[13/01/23 PM 15:48:37]  [Info] Static setting failure
+[13/01/23 PM 15:48:40]  1
+[13/01/23 PM 15:48:40]  2
+[13/01/23 PM 15:48:40]  3
+[13/01/23 PM 15:48:42]  4
+[13/01/23 PM 15:48:42]  5
+[13/01/23 PM 15:48:42]  5
+[13/01/23 PM 15:48:42]  5
+[13/01/23 PM 15:48:42]  5
+[13/01/23 PM 15:48:42]  5
+[13/01/23 PM 15:48:42]  9
+[13/01/23 PM 15:48:42]  [Info] Static setting failure
+[13/01/23 PM 15:48:48]  [Info] spoofed packet stoped. chage state from attack to nomal. TargetIP: 203.252.118.1 
+[13/01/23 PM 15:48:57]  [Warning] Unrequested arp reply packet is detected. TargetIP: 203.252.118.1
+[13/01/23 PM 15:49:12]  Program Terminate
